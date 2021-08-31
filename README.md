@@ -32,5 +32,5 @@ See [LICENSE.md](LICENSE.md) for license terms.
 
 *LabVIEW* is a registered trademark of National Instruments Corporation.
 
-Copyright © 2005-2019 Pico Technology Ltd. All rights reserved.
+Copyright © 2005-2021 Pico Technology Ltd. All rights reserved.
 
